@@ -1,0 +1,3 @@
+!ask Do I?
+!ask Is that a thing I like?
+!ask DJ wants to know if I like it?

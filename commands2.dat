@@ -1,0 +1,33 @@
+!discord:show,discord
+!discord:discord,link
+!discord:display,discord
+!twitter:show,twitter
+!twitter:twitter,link
+!twitter:display,twitter
+!autodj:who,are,you
+!autodj:who,you,are
+!autodj:describe,yourself
+!autodj:who,is,auto dj
+!time:what,is,time
+!so [lastraid]:please,shoutout
+!so [lastraid]:shoutout,please
+!so [lastraid]:shout out,please
+!so [lastraid]:please,shout out
+/followers:follower,only
+/followersoff:follower,mode,off
+/subscribers:sub,mode,please
+/subscribersoff:sub,mode,off
+/subscribers:subscriber,mode,please
+/subscribersoff:subscriber,mode,off
+!testcase:gfdgfsdgsdgs,gfdgdfsg
+
+
+{#say Stream set to followers only}/followers:follower,only
+
+{#random 15&#say Set to followers only}/followers:follower,only
+
+{#localapi 18,param1,param2&#say I did that}:turn,the,lights,down
+
+{#localapi 4,param1&#say I set that thing&##error I cannot do that right now}:turn,the,lights,down
+
+
